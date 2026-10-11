@@ -17,7 +17,8 @@ BS-MS undergraduate at **IISER Thiruvananthapuram**, curious about how the unive
 ## 🏫 Where I Study
 
 **Indian Institute of Science Education and Research (IISER) Thiruvananthapuram**
-BS-MS Undergraduate Student
+
+BS-MS (Dual Degree) Undergraduate Student
 
 ---
 
@@ -56,17 +57,12 @@ A five-member team project studying the biological basis of human fingerprint pa
 
 ---
 
-## 📌 Featured Repositories
-
-- **Introduction to Gravitational Waves and Pulsar Timing Array**: [add link to repo]
-- **Identifingers — Anvesha 2025**: [add link to repo]
-
 ---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: [add your email]
-- 💼 LinkedIn: [add your link]
+- 📧 Email: ayush.mhaisalkar25@iisertvm.ac.in
+- 💼 LinkedIn: https://www.linkedin.com/in/ayushmhaisalkar/
 
 ---
 
